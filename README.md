@@ -30,3 +30,7 @@
   <a href = "mailto:victoriaaraujo10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vict%C3%B3ria-virginia-s-de-ara%C3%BAjo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+ ##
+
+![snake gif](https://github.com/victoriaaraujo10/victoriaaraujo10/blob/output/github-contribution-grid-snake.svg)
