@@ -1,11 +1,10 @@
-### Hello devs, I'm Victoria! 👋
+### Hello devs, I'm Victor! 👋
 ##
 
 - 🔭 I’m currently studying Bachelor of Statistics
-- 🌱 I’m currently in a bootcamp of Java fullstack and others languages 
 - 👯 I’m looking to get my first experience in development / intership
-- 📫 How to reach me: https://www.linkedin.com/in/vict%C3%B3ria-virginia-s-de-ara%C3%BAjo/
-- 😄 Pronouns: she/her
+- 📫 How to reach me: https://www.linkedin.com/in/victor-vs-araujo/
+- 😄 Pronouns: he/him
 
 ##
 
